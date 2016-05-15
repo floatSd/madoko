@@ -1,0 +1,15 @@
+Title         : 电力电子装置
+Author        : @float.hellowmr@gmail.com
+Logo          : False
+
+[TITLE]
+
+
+# APFC(有源功率因数校正)
+
+## tips
+- 作用：通过让交流侧电流在正弦化，减小装置非线性，改善功率因数，消除谐波和无功电流；
+- 单相不可控全桥+boost+负载，boost电路中mosfet触发由单相APFC双闭环控制回路提供；
+- 电压外环：
+- 电流内环:
+
